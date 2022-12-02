@@ -1,6 +1,9 @@
 # bgrn
 This is a Sample Tool For Automation Bug Bounty
-https://badgen.net/badge/hello/world/red?icon=twitter
+
+
+![example workflow](https://badgen.net/badge/Hello/Friend/red?icon=twitter)
+
 ## Install:
 ```
 git clone https://github.com/hunterZZzzx/bgrn.git
