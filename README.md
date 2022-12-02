@@ -3,6 +3,8 @@ This is a Sample Tool For Automation Bug Bounty
 
 
 ![example workflow](https://badgen.net/badge/Hello/Friend/red?icon=twitter)
+![example workflow](https://img.shields.io/github/v/release/ANBU-Hunter/bgrn)
+
 
 ## Install:
 ```
