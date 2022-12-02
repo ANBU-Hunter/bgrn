@@ -6,7 +6,7 @@ echo " █████╗ ██╗   ██╗████████╗ █�
 ╚═╝  ╚═╝ ╚═════╝    ╚═╝    ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
                                                                                      "
 read -p "Enter Your Domain:" Domain
-subfinder -d $Domain > subs.txt
+subfinder -dL $Domain > subs.txt
 cat subs.txt | sort -u | tee -a new-subs.txt
 cat new-subs.txt | httprobe | tee -a alive.txt
 subzy -targets alive.txt | tee -a res-subzy.txt
