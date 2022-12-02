@@ -8,7 +8,7 @@ This is a Sample Tool For Automation Bug Bounty
 
 ## Install:
 ```
-git clone https://github.com/hunterZZzzx/bgrn.git
+git clone https://github.com/ANBU-Hunter/bgrn.git
 ```
 
 <div>
